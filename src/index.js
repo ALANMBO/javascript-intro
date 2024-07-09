@@ -1,12 +1,10 @@
 
+const nombre = 'tony'
+const apellido = 'stark'
+console.log(nombre)
+document.write(apellido + '<br>')
 
-
-
-
-
-console.log('Hola Mundo!!')
-
-
-
-
-
+if(true){
+    const nombre1 = 'peter'
+    document.write(nombre1)  
+}
